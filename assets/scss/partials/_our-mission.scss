@@ -1,0 +1,41 @@
+.mission-text{
+    margin-top: 130px;
+    width: 100%;
+    float: right;
+    right: 0px;
+    top: 50%;
+    background: #fff;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    border-radius: 5px;
+    padding: 30px;
+    padding-bottom: 10px;
+
+    h2{
+        font-weight: 400;
+      font-size: 24px;
+       line-height: 38px;
+       letter-spacing: 1.75px;
+      color: #3B566E;
+      margin-bottom: 20px;
+    }
+    p{
+    font-weight: 400;
+      font-size: 14px;
+      line-height: 26px;
+      margin-bottom: 20px;
+      color: #6F8BA4;
+
+    } 
+}
+
+.mission-image{
+    img{
+        width: 750px;
+        max-width: auto !important;
+        min-width: auto !important;
+        position: absolute;
+        margin: auto;
+        transition: all 0.4s;
+        transform: scale(1);
+    }
+}

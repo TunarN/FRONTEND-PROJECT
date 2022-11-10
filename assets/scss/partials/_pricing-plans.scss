@@ -1,0 +1,122 @@
+.center-text{
+  text-align: center;
+}
+.pricing-item {
+    background: #FFFFFF;
+    box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 30px;
+
+    .pricing-footer{
+        text-align: center;
+
+        a{
+            width: 160px;
+            margin: auto;
+            display: inline-block;
+            height: 44px;
+            line-height: 44px;
+            text-align: center;
+            border-radius: 5px;
+            background: #585CE9;
+            margin-bottom: 40px;
+            font-weight: 700;
+            font-size: 12px;
+            color: #fff;
+            letter-spacing: 0.75px;
+            text-transform: uppercase;
+            outline: none !important;
+            cursor: pointer;
+            position: relative;
+        }
+    }
+
+    .pricing-body{
+        margin-bottom: 40px;
+
+        .list{
+            li{
+               text-align: center;
+               margin-bottom: 12px;
+               font-weight: 400;
+               font-size: 14px;
+               color: gray;
+               letter-spacing: 0.88px;
+            }
+        }
+
+        .price-wrapper{
+            text-align: center;
+            margin-top: 40px;
+            margin-bottom: 30px;
+
+            .value{
+                height: 47px;
+              font-weight: 600;
+              font-size: 20px;
+             color: #585CE9;
+              position: relative;
+             top: -15px;
+            }
+
+            .price{
+                font-weight: 700;
+                font-size: 34px;
+                color: #585CE9;
+
+            }
+
+            .month{
+                font-weight: 700;
+               font-size: 14px;
+               color: #585CE9;
+              letter-spacing: 0.88px;
+            }
+        }
+
+        .number{
+            width: 42px;
+           height: 42px;
+          line-height: 42px;
+           background: #F7FAFD;
+          position: relative;
+          margin: auto;
+          margin-top: -20px;
+          text-align: center;
+          border-radius: 100%;
+
+          span{
+            font-weight: 400;
+            font-size: 16px;
+            color: #585CE9;
+            display: block;
+          }
+
+
+        }
+    }
+        .pricing-header{
+            border-bottom: 1px solid #F7FAFD;
+            text-align: center;
+            height: 130px;
+            display: block;
+            position: relative;
+            .number{
+                background: #fff;
+                box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.13);
+            }
+
+            .pricing-title{
+                 font-weight: 700;
+                 font-size: 16px;
+                 letter-spacing: 1px;
+                 color: #3B566E;
+                 position: absolute;
+                 width: 100%;
+                 top: 46%;
+                transform: perspective(1px) translateY(0%);
+            }
+        }
+  }
+  

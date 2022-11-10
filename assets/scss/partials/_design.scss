@@ -1,0 +1,44 @@
+#design{
+    .heading{
+        margin-top: 90px;
+    }
+    
+    .heading-text{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    
+        p{
+            font-weight: 400;
+        font-size: 16px;
+        color: #6F8BA4;
+        line-height: 28px;
+        letter-spacing: 1px;
+        }
+    }
+    
+    
+    .btn{
+    
+        width: 100%;
+        margin: auto;
+        display: inline-block;
+        height: 40px;
+        line-height: 40px;
+        box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+        border-radius: 5px;
+        background: #fff;
+        margin-bottom: 20px;
+        font-weight: 400;
+        font-size: 14px;
+        letter-spacing: 0.88px;
+        outline: none !important;
+        cursor: pointer;
+        position: relative;
+        overflow: hidden;
+    }
+    .design-img{
+        img{
+            margin-top: 180px;
+        }
+    }
+}

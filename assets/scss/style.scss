@@ -1,0 +1,42 @@
+@import "./partials/header-area";
+@import "./partials/welcome";
+@import "./partials/icons";
+@import "./partials/features";
+@import "./partials/design";
+@import "./partials/counter";
+@import "./partials/our-team";
+@import "./partials/pricing-plans";
+@import "./partials/contact-image";
+@import "./partials/blog";
+@import "./partials/footer";
+@import "./partials/page";
+@import "./partials/content";
+@import "./partials/our-location";
+@import "./partials/contact";
+@import "./partials/mail";
+@import "./partials/about";
+@import "./partials/our-mission";
+@import "./partials/our-vision";
+@import "./partials/accordion";
+@import "./partials/page-buttom";
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+ul{
+  margin-bottom: 0px;
+    li {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+      }
+}
+  
+a{
+    text-decoration: none;
+}
+

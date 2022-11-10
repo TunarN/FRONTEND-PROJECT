@@ -1,0 +1,38 @@
+.faq-wrapper{
+    .faq-text{
+        h2 {
+            font-weight: 400;
+            font-size: 30px;
+            color: #585CE9;
+            letter-spacing: 1.88px;
+            margin-bottom: 20px;
+            margin-top: 100px;
+        }
+
+        p{
+            margin-bottom: 28px;
+            color: #3B566E;;
+        }
+        .btn-primary-line {
+            width: 160px;
+            margin: auto;
+            display: inline-block;
+            height: 44px;
+            line-height: 44px;
+            text-align: center;
+            border: none;
+            border-radius: 5px;
+            background: #585CE9;
+            margin-bottom: 40px;
+            font-weight: 700;
+            font-size: 12px;
+            color: #fff;
+            letter-spacing: 0.75px;
+            text-transform: uppercase;
+            transition: all 0.3s ease 0s;
+            outline: none !important;
+            cursor: pointer;
+            position: relative;
+        }
+    } 
+}

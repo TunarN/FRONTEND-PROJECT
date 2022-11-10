@@ -1,0 +1,124 @@
+#icons{
+    .cloud{
+        margin-top: 120px;
+        display: block;
+        background: #FFFFFF;
+        box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+        border-radius: 5px;
+        padding: 30px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 30px;
+
+        &:hover{
+            background-color: #007bff;
+            transform: scale(1.1);
+            transition: 0.5s;
+        }
+    
+        i{
+            width: 67px;
+            height: 67px;
+            line-height: 70px;
+            margin: auto;
+            position: relative;
+            margin-bottom: 20px;
+            background: #F7FAFD;
+            border-radius: 100%;
+            color: #007bff;
+        }
+    
+        
+    }
+    
+    .network{
+        margin-top: 120px;
+        display: block;
+        background: #FFFFFF;
+        box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+        border-radius: 5px;
+        padding: 30px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 30px;
+        &:hover{
+            background-color: #007bff;
+            transform: scale(1.1);
+            transition: 0.5s;
+        }
+       i{
+        width: 67px;
+        height: 67px;
+        line-height: 70px;
+        margin: auto;
+        position: relative;
+        margin-bottom: 20px;
+        background: #F7FAFD;
+        border-radius: 100%;
+        color: #007bff;
+       }
+    }
+    
+    .webcast{
+        margin-top: 120px;
+        display: block;
+        background: #FFFFFF;
+        box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+        border-radius: 5px;
+        padding: 30px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 30px;
+        &:hover{
+            background-color: #007bff;
+            transform: scale(1.1);
+            transition: 0.5s;
+        }
+    
+        i{
+            width: 67px;
+            height: 67px;
+            line-height: 70px;
+            margin: auto;
+            position: relative;
+            margin-bottom: 20px;
+            background: #F7FAFD;
+            border-radius: 100%;
+            color: #007bff; 
+        }
+    }
+    
+    .disaster{
+        margin-top: 120px;
+        display: block;
+        background: #FFFFFF;
+        box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+        border-radius: 5px;
+        padding: 30px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 30px;
+        &:hover{
+            background-color: #007bff;
+            transform: scale(1.1);
+            transition: 0.5s;
+        }
+    
+        i{
+            width: 67px;
+            height: 67px;
+            line-height: 70px;
+            margin: auto;
+            position: relative;
+            margin-bottom: 20px;
+            background: #F7FAFD;
+            border-radius: 100%;
+            color: #007bff; 
+        }
+    }
+
+}
